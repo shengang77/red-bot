@@ -12,5 +12,5 @@ python3 bot.py
 
 #To exit the screen without stopping the bot, press Ctrl+A then D. To go back to it later, type screen -r.
 
-/coki 
-/User
+/coki - Upload your Redgif Cookies here
+/User - Username of creator 
