@@ -1,0 +1,16 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3-pip ffmpeg screen -y
+
+
+pip3 install python-telegram-bot yt-dlp
+
+#Run in a "Screen" (Keeps it running after you close SSH):
+Bash
+
+screen -S redgifs_bot
+python3 bot.py
+
+#To exit the screen without stopping the bot, press Ctrl+A then D. To go back to it later, type screen -r.
+
+/coki 
+/User
